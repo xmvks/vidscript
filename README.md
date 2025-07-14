@@ -4,4 +4,7 @@
 
  # How to download
  I will be publishing "releases" with .zipped viruses
- Alternatively, use _'git clone htt'_
+ Alternatively, use _'git clone https://github.com/xmvks/vidscript.git'_ to download full repository.
+
+# Updates
+12 hours to max. 1 month.
